@@ -1,0 +1,16 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Serenza.Sensor.Domain/bin/Debug/net7.0
+/src/Serenza.Sensor.Domain/obj
+/tests/Units/Serenza.Sensor.Domain.Tests/bin
+/tests/Units/Serenza.Sensor.Domain.Tests/obj
+/src/Serenza.Sensor.Api/obj
+/src/Serenza.Sensor.Api/bin/Debug/net7.0
+/src/Serenza.Sensor.Infrastructure/bin/Debug/net7.0
+/src/Serenza.Sensor.Infrastructure/obj
+/bin/Debug
+/obj
+/db/src/Serenza.Sensor.Api/obj

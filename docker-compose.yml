@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  serenza.sensor.api:
+    image: ${DOCKER_REGISTRY-}serenzasensorapi
+    build:
+      context: .
+      dockerfile: src/Serenza.Sensor.Api/Dockerfile
